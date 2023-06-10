@@ -1,2 +1,2 @@
 console.log('coucou tout le monde');
-consol.log('salut salut');
+console.log('salut salut');
